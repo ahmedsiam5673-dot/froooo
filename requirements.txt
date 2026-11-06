@@ -1,0 +1,17 @@
+PySide6-Essentials>=6.6
+SpeechRecognition>=3.10
+PyAudio>=0.2.14
+pyttsx3>=2.90
+pywin32>=306; sys_platform == "win32"
+edge-tts>=6.1
+pygame>=2.5
+keyboard>=0.13.5
+pycaw>=20240210; sys_platform == "win32"
+comtypes>=1.4; sys_platform == "win32"
+psutil>=5.9
+requests>=2.31
+anthropic>=0.40
+Pillow>=10.0
+pypdf>=4.0
+screen-brightness-control>=0.20
+tzdata>=2024.1
